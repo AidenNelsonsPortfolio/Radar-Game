@@ -1,5 +1,5 @@
 # Radar-Game
-Radar game built in Java using advanced data structures and logic. 
+Radar game built in Java using advanced data structures and multiple interacting classes.
 
 Enemies fly at you and you have to intercept them with missles launched from your base!
 
